@@ -28,8 +28,6 @@ npm start
 
 frontend/vue.config.js
 
----
-
 module.exports = {
 
   devServer: {
@@ -57,8 +55,6 @@ module.exports = {
   outputDir: '../backend/public',
   
 }
-
----
 
 cd frontend
 
